@@ -1,0 +1,191 @@
+[
+ {
+  "id": "1",
+  "name": "Hoa Hồng Đỏ",
+  "image": "https://shophoabinhduong.net/wp-content/uploads/2021/04/hoa-hong-do.jpeg",
+  "origin": "Đà Lạt",
+  "price": "100"
+ },
+ {
+  "id": "2",
+  "name": "Hoa Tigon",
+  "image": "https://cdn-dbcoe.nitrocdn.com/zWHIUZlKpLRszVoeiEYpnmKdCsCZrngi/assets/static/optimized/rev-ccaecfb/wp-content/uploads/2021/09/hoa-tigon.jpg",
+  "origin": "Đà Lạt",
+  "price": "150"
+ },
+ {
+  "id": "3",
+  "name": "Cẩm Tú Cầu",
+  "image": "https://cdn-dbcoe.nitrocdn.com/zWHIUZlKpLRszVoeiEYpnmKdCsCZrngi/assets/static/optimized/rev-ccaecfb/wp-content/uploads/2021/05/co-nen-trong-cay-cam-tu-cau-trong-nha.jpeg",
+  "origin": "Đà Lạt",
+  "price": "100"
+ },
+ {
+  "id": "4",
+  "name": "Hoa Tulip",
+  "image": "https://cdn-dbcoe.nitrocdn.com/zWHIUZlKpLRszVoeiEYpnmKdCsCZrngi/assets/static/optimized/rev-ccaecfb/wp-content/uploads/2021/10/cay-hoa-tulip.jpg",
+  "origin": "Đà Lạt",
+  "price": "220"
+ },
+ {
+  "id": "5",
+  "name": "Hoa Thiên Điểu",
+  "image": "http://hoatuoi9x.com/wp-content/uploads/2021/05/hoa-thien-dieu-co-doc-1024x768.jpg",
+  "origin": "Đà Lạt",
+  "price": "100"
+ },
+ {
+  "id": "6",
+  "name": "Hoa Thược Dược",
+  "image": "https://cdn-dbcoe.nitrocdn.com/zWHIUZlKpLRszVoeiEYpnmKdCsCZrngi/assets/static/optimized/rev-ccaecfb/wp-content/uploads/2021/09/y-nghia-cua-hoa-thuoc-duoc.jpg",
+  "origin": "Đà Lạt",
+  "price": "120"
+ },
+ {
+  "id": "7",
+  "name": "Hoa Bỉ Ngạn",
+  "image": "https://cdn-dbcoe.nitrocdn.com/zWHIUZlKpLRszVoeiEYpnmKdCsCZrngi/assets/static/optimized/rev-ccaecfb/wp-content/uploads/2021/12/hoa-bi-ngan.jpg",
+  "origin": "Đà Lạt",
+  "price": "150"
+ },
+ {
+  "id": "8",
+  "name": "Hoa Anh Túc",
+  "image": "https://cdn-dbcoe.nitrocdn.com/zWHIUZlKpLRszVoeiEYpnmKdCsCZrngi/assets/static/optimized/rev-ccaecfb/wp-content/uploads/2021/12/hoa-anh-tuc.jpg",
+  "origin": "Đà Lạt",
+  "price": "300"
+ },
+ {
+  "id": "9",
+  "name": "Hoa Păng Xê",
+  "image": "https://cdn-dbcoe.nitrocdn.com/zWHIUZlKpLRszVoeiEYpnmKdCsCZrngi/assets/static/optimized/rev-ccaecfb/wp-content/uploads/2021/10/cham-soc-cay-hoa-pang-xe.jpg",
+  "origin": "Đà Lạt",
+  "price": "220"
+ },
+ {
+  "id": "10",
+  "name": "Hoa Baby Trắng",
+  "image": "https://cdn-dbcoe.nitrocdn.com/zWHIUZlKpLRszVoeiEYpnmKdCsCZrngi/assets/static/optimized/rev-ccaecfb/wp-content/uploads/2022/01/hoa-baby.jpg",
+  "origin": "Đà Lạt",
+  "price": "80"
+ },
+ {
+  "id": "11",
+  "name": "Hoa Linh Lan",
+  "image": "https://cdn-dbcoe.nitrocdn.com/zWHIUZlKpLRszVoeiEYpnmKdCsCZrngi/assets/static/optimized/rev-ccaecfb/wp-content/uploads/2022/01/hoa-linh-lan.jpg",
+  "origin": "Đà Lạt",
+  "price": "170"
+ },
+ {
+  "id": "12",
+  "name": "Hoa Lantana",
+  "image": "https://cdn-dbcoe.nitrocdn.com/zWHIUZlKpLRszVoeiEYpnmKdCsCZrngi/assets/static/optimized/rev-ccaecfb/wp-content/uploads/2022/01/hoa-lanta-na.jpg",
+  "origin": "Đà Lạt",
+  "price": "150"
+ },
+ {
+  "id": "13",
+  "name": "Hoa Hướng Dương",
+  "image": "https://bizweb.dktcdn.net/thumb/large/100/155/916/products/htb1iln3rfxxxxalaxxxq6xxfxxxp.jpg?v=1513996989623",
+  "origin": "Đà Lạt",
+  "price": "100"
+ },
+ {
+  "id": "14",
+  "name": "Hoa Sen",
+  "image": "https://cdn-dbcoe.nitrocdn.com/zWHIUZlKpLRszVoeiEYpnmKdCsCZrngi/assets/static/optimized/rev-ccaecfb/wp-content/uploads/2022/01/hoa-sen.jpg",
+  "origin": "Đà Lạt",
+  "price": "250"
+ },
+ {
+  "id": "15",
+  "name": "Hoa Phi Yến",
+  "image": "https://cdn-dbcoe.nitrocdn.com/zWHIUZlKpLRszVoeiEYpnmKdCsCZrngi/assets/static/optimized/rev-ccaecfb/wp-content/uploads/2022/01/hoa-phi-yen.jpg",
+  "origin": "Đà Lạt",
+  "price": "280"
+ },
+ {
+  "id": "16",
+  "name": "Hoa Thuỷ Tiên",
+  "image": "https://cdn-dbcoe.nitrocdn.com/zWHIUZlKpLRszVoeiEYpnmKdCsCZrngi/assets/static/optimized/rev-ccaecfb/wp-content/uploads/2021/12/hoa-thuy-tien.jpg",
+  "origin": "Đà Lạt",
+  "price": "270"
+ },
+ {
+  "id": "17",
+  "name": "Hoa Tử Đằng",
+  "image": "https://cdn-dbcoe.nitrocdn.com/zWHIUZlKpLRszVoeiEYpnmKdCsCZrngi/assets/static/optimized/rev-ccaecfb/wp-content/uploads/2021/12/hoa-tu-dang.jpg",
+  "origin": "Đà Lạt",
+  "price": "170"
+ },
+ {
+  "id": "18",
+  "name": "Hoa Cát Tường",
+  "image": "https://cdn-dbcoe.nitrocdn.com/zWHIUZlKpLRszVoeiEYpnmKdCsCZrngi/assets/static/optimized/rev-ccaecfb/wp-content/uploads/2022/01/vuon-hoa-cat-tuong.jpg",
+  "origin": "Đà Lạt",
+  "price": "150"
+ },
+ {
+  "id": "19",
+  "name": "Hoa Chi Diên Vĩ",
+  "image": "https://cdn-dbcoe.nitrocdn.com/zWHIUZlKpLRszVoeiEYpnmKdCsCZrngi/assets/static/optimized/rev-ccaecfb/wp-content/uploads/2022/01/hoa-chi-dien-vi.jpg",
+  "origin": "Đà Lạt",
+  "price": "250"
+ },
+ {
+  "id": "20",
+  "name": "Hoa Lan Vàng",
+  "image": "https://cdn-dbcoe.nitrocdn.com/zWHIUZlKpLRszVoeiEYpnmKdCsCZrngi/assets/static/optimized/rev-ccaecfb/wp-content/uploads/2021/12/hoa-phong-lan-1.jpg",
+  "origin": "Đà Lạt",
+  "price": "380"
+ },
+ {
+  "id": "21",
+  "name": "Hoa Mẫu Đơn",
+  "image": "https://cdn-dbcoe.nitrocdn.com/zWHIUZlKpLRszVoeiEYpnmKdCsCZrngi/assets/static/optimized/rev-ccaecfb/wp-content/uploads/2022/01/hoa-mau-don-1.jpeg",
+  "origin": "Đà Lạt",
+  "price": "280"
+ },
+ {
+  "id": "22",
+  "name": "Hoa Oải Hương",
+  "image": "https://cdn-dbcoe.nitrocdn.com/zWHIUZlKpLRszVoeiEYpnmKdCsCZrngi/assets/static/optimized/rev-ccaecfb/wp-content/uploads/2021/09/cay-hoa-oai-huong-3.jpg",
+  "origin": "Đà Lạt",
+  "price": "170"
+ },
+ {
+  "id": "23",
+  "name": "Hoa Mao Lương",
+  "image": "https://cdn-dbcoe.nitrocdn.com/zWHIUZlKpLRszVoeiEYpnmKdCsCZrngi/assets/static/optimized/rev-ccaecfb/wp-content/uploads/2021/12/hoa-mao-luong.jpg",
+  "origin": "Đà Lạt",
+  "price": "150"
+ },
+ {
+  "id": "24",
+  "name": "Hoa Đào",
+  "image": "https://chaucayxuatkhau.com/wp-content/uploads/2021/12/hoa-dao.jpg",
+  "origin": "Đà Lạt",
+  "price": "350"
+ },
+ {
+  "id": "25",
+  "name": "Hoa Đồng Tiền",
+  "image": "https://chaucayxuatkhau.com/wp-content/uploads/2021/09/hoa-dong-tien-1.jpg",
+  "origin": "Đà Lạt",
+  "price": "180"
+ },
+ {
+  "id": "26",
+  "name": "Hoa Mộc Lan",
+  "image": "https://chaucayxuatkhau.com/wp-content/uploads/2021/09/hoa-moc-lan-1.jpg",
+  "origin": "Đà Lạt",
+  "price": "150"
+ },
+ {
+  "id": "27",
+  "name": "Hoa Nguyệt Quế",
+  "image": "https://chaucayxuatkhau.com/wp-content/uploads/2021/08/cach-trong-cay-nguyet-que.jpg",
+  "origin": "Đà Lạt",
+  "price": "270"
+ }
+]
