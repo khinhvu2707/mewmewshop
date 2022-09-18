@@ -14,7 +14,7 @@ export default function ListProducts() {
         limit: 12,
         page: 1,
     });
-
+    const isMounted = useRef(false);
     const products = useSelector((state) => state.product.products)
     const myRef = useRef(null)
     const executeScroll = () => myRef.current.scrollIntoView()
@@ -40,7 +40,14 @@ export default function ListProducts() {
     useEffect(() => {
         (async () => {
             try {
-                await fetchAllProducts(true)
+                console.log(isMounted.current);
+                if (isMounted.current) {
+                    await fetchAllProducts(true)
+                } else {
+                    isMounted.current = true;
+                    await fetchAllProducts(false)
+                }
+
                 console.log("filters limit:" + filters.limit + " , page : " + filters.page);
                 console.log("call api");
             } catch (error) {

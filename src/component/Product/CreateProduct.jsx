@@ -154,7 +154,7 @@ export default function CreateProduct(props) {
                 required: "Hình ảnh sản phẩm không được bỏ trống !"
               })} />
               <ErrorMessage errors={errors} name="image" render={({ message }) => <p style={{ color: 'red' }}>{message}</p>} />
-              {imgData && <div><img src={imgData} className="d-block w-100 pt-5" alt="..." /></div>}
+              {imgData && <div className="style-image"><img src={imgData} className="d-block w-100 pt-5 h-100" alt="..." /></div>}
             </div>
             <hr />
             <div className="text-center">
